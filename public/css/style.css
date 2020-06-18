@@ -225,3 +225,12 @@ a {
     display: none;
   }
 }
+@media (max-width: 395px) {
+  .chat-main {
+    height: 415px;
+  }
+
+  .chat-container {
+    height: 600px;
+  }
+}
